@@ -1,0 +1,5 @@
+const powerUpArray=[];
+
+class PowerUps{
+    
+}
